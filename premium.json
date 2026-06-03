@@ -1,0 +1,14 @@
+[
+  {
+    "id": "name",
+    "nomor": "123456789011",
+    "hari_pertama": "2026-06-03",
+    "hari_kedaluwarsa": "2026-06-03"
+  },
+  {
+    "id": "user",
+    "nomor": "112234567111",
+    "hari_pertama": "2026-07-01",
+    "hari_kedaluwarsa": "2026-08-01"
+  }
+]

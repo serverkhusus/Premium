@@ -1,14 +1,14 @@
 [
   {
     "id": "eg",
-    "nomor": "BS8G-R0FW-FF9E",
-    "hari_pertama": "2026-06-03",
-    "hari_kedaluwarsa": "2026-06-03"
+    "nomor": "BS8GR0FWFF9E",
+    "hari_pertama": "2026-06-05",
+    "hari_kedaluwarsa": "2026-06-06"
   },
   {
-    "id": "eg",
-    "nomor": "BS8G-R0FW-FF9E",
-    "hari_pertama": "2026-07-01",
-    "hari_kedaluwarsa": "2026-08-01"
+    "id": "po",
+    "nomor": "BS8GR0FWFF9P",
+    "hari_pertama": "2026-05-01",
+    "hari_kedaluwarsa": "2026-08-8"
   }
 ]
